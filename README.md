@@ -43,9 +43,6 @@ node server.js
 
 ```
 
-<p align="center">
-    <a href="https://github.com/Sadegh777/team-profile-editor.git/output/index.html"><img src="https://img.shields.io/badge/-👉 Sample Profile-success?style=for-the-badge"  alt="Sample Site" /></a>
-</p>
 
 ## Usage
 ### Screenshots
@@ -127,9 +124,9 @@ nextEmployee() {
 
 ### Author
 
-- 💼 Carlos Toledo: [portfolio](https://kqarlos.github.io/)
-- :octocat: Github: [kqarlos](https://www.github.com/kqarlos)
-- LinkedIn: [carlos-toledo415](https://www.linkedin.com/in/carlos-toledo415/)
+
+-  Github: [Sadegh](https://www.github.com/Sadegh777)
+
 
 
 ### Built With
@@ -145,9 +142,4 @@ nextEmployee() {
     <a href="https://www.npmjs.com/package/jest"><img src="https://img.shields.io/badge/-Jest-blue?style=for-the-badge" alt="Jest" /></a>
 </p>
 
-## License
 
-</br>
-<p align="center">
-    <img align="center" src="https://img.shields.io/github/license/Sadegh777/team-profile-generator?style=for-the-badge" alt="MIT license" />
-</p>
