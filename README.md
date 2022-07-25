@@ -1,18 +1,7 @@
 # Team Profile Generator
 
 </br>
-<p align="center">
-    <img src="https://img.shields.io/github/languages/count/kqarlos/team-profile-generator?style=for-the-badge" alt="Languages" />
-    <img src="https://img.shields.io/github/languages/top/kqarlos/team-profile-generator?style=for-the-badge" alt="Top Language" />
-    <img src="https://img.shields.io/github/languages/code-size/kqarlos/team-profile-generator?style=for-the-badge" alt="Code Size" />
-    <img src="https://img.shields.io/github/repo-size/kqarlos/team-profile-generator?style=for-the-badge" alt="Repo Size" />   
-    <img src="https://img.shields.io/tokei/lines/github/kqarlos/team-profile-generator?style=for-the-badge" alt="Total Lines" />
-    <img src="https://img.shields.io/github/package-json/dependency-version/kqarlos/team-profile-generator/inquirer?style=for-the-badge" alt="Inquirer Version" />
-    <img src="https://img.shields.io/github/last-commit/kqarlos/team-profile-generator?style=for-the-badge" alt="Last Commit" />  
-    <img src="https://img.shields.io/github/issues/kqarlos/team-profile-generator?style=for-the-badge" alt="Issues" />  
-    <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/kqarlos/team-profile-generator?style=for-the-badge">
-    <img src="https://img.shields.io/github/followers/kqarlos?style=social" alt="Followers" />  
-</p>
+
 
 
 ## Description
