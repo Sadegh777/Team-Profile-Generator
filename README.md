@@ -37,14 +37,14 @@ Steps to install application:
 4. HTML Generated
 
 ```
-git clone git@github.com:Sadegh777/team-profile-generator.git
+git clone git@github.com:kqarlos/team-profile-generator.git
 npm instal
 node server.js
 
 ```
 
 <p align="center">
-    <a href="https://sadegh777.github.io/team-profile-generator/team-profile-generator/output/index.html"><img src="https://img.shields.io/badge/-👉 Sample Profile-success?style=for-the-badge"  alt="Sample Site" /></a>
+    <a href="https://github.com/Sadegh777/team-profile-editor.git/output/index.html"><img src="https://img.shields.io/badge/-👉 Sample Profile-success?style=for-the-badge"  alt="Sample Site" /></a>
 </p>
 
 ## Usage
@@ -147,3 +147,7 @@ nextEmployee() {
 
 ## License
 
+</br>
+<p align="center">
+    <img align="center" src="https://img.shields.io/github/license/Sadegh777/team-profile-generator?style=for-the-badge" alt="MIT license" />
+</p>
