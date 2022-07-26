@@ -38,7 +38,7 @@ node server.js
 
 1. Working app
 
-![Image Site](assets/live.gif)
+![Image Site](assets/team-profile-generator.gif)
 
 2. Example of a team profile generated
 
